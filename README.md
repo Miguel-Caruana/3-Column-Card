@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://miguel-caruana.github.io/3-Column-Card/)
+- Live Site URL: [https://miguel-caruana.github.io/3-Column-Card/]
 
 ## My process
 
